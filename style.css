@@ -1,5 +1,5 @@
 header {
-    beckground-color: #183C63;
+    beckground-color: #e0dd18;
     color: #FFFFFF;
     text-align: center;
     max-width:800px;
@@ -8,8 +8,8 @@ header {
 }
 
     main{
-    background-color: #FFFFFF;
-    color: #183C63; 
+    background-color: #052d53;
+    color: #008000; 
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
