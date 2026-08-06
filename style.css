@@ -25,6 +25,12 @@ header {
     padding: 0;
 }
 
+hbody {
+    font-family: Arial, Helvetica, sans-serif; /* Fonte universal herdada por todo o site */
+    margin: 0;                                 /* Remove margens padrão do navegador */
+    padding: 0;
+}
+
 header {
     background-color: #b4cbc5; /* cor de fundo */
     color: #013005; /* cor da fonte */
@@ -63,25 +69,3 @@ img {
 .artigo-autor {
     font-weight: bold; /* deixa o texto em negrito */
 }
-.texto-curto {
-    max-width: 65ch; /* Li.texto-curto {
-    max-width: 65ch; /* Limita a linha a cerca de 45 caracteres */
-}
-
-footer {footer {
-    background-color: #b4cbc5; /* Mesma cor escura do texto do header para combinar */
-    color: #013005;            /* Cor da fonte branca para dar contraste e leitura */
-    text-align: center;        /* Centraliza o texto horizontalmente */
-    max-width: 800px;          /* Mantém o mesmo alinhamento do header e do main */
-    margin: 0 auto;            /* Centraliza o bloco inteiro na tela */
-    padding: 20px;             /* Cria um espaçamento interno para o fundo aparecer bem */
-    font-si
-    background-color: #b4cbc5; /* Mesma cor escura do texto do header para combinar */
-    color: #013005;            /* Cor da fonte branca para dar contraste e leitura */
-    text-align: center;        /* Centraliza o texto horizontalmente */
-    max-width: 800px;          /* Mantém o mesmo alinhamento do header e do main */
-    margin: 0 auto;            /* Centraliza o bloco inteiro na tela */
-    padding: 20px;             /* Cria um espaçamento interno para o fundo aparecer bem */
-    font-size: 14px;           /* Deixa o texto do rodapé um pouco menor e discreto */
-}
-mita a linha a cerca de 45 caracteres */
