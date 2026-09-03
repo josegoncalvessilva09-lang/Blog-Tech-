@@ -32,8 +32,8 @@ hbody {
 }
 
 header {
-    background-color: #b4cbc5; /* cor de fundo */
-    color: #013005; /* cor da fonte */
+    background-color: #0abb8c; /* cor de fundo */
+    color: #000000; /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
@@ -41,7 +41,7 @@ header {
 }
 
 h1 {
-    color: #17048f;
+    color: #2200ffa2;
 }
 
 main {
